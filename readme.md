@@ -1,5 +1,5 @@
-# Hello , I am Shubham
-I am a CS Undergrad from Varanasi, India.
+# Hello , I am ShDaemon
+I am a CS Undergrad from India.
 
 ## 💫 About Me:
 <br/>
